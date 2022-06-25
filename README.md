@@ -1,7 +1,7 @@
-# hey
+# deployed version
 
-if you have ssl error
+> https://catekkesin.github.io/match-game/
 
-export NODE_OPTIONS=--openssl-legacy-provider
+# error fix cmd
 
-run this guy !
+> export NODE_OPTIONS=--openssl-legacy-provider
